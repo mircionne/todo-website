@@ -1,3 +1,6 @@
 # Sample read.me
-- file
-- file
+- about.html
+- home.html
+- index.html
+- css/
+- js/
